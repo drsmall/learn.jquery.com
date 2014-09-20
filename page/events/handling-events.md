@@ -159,6 +159,5 @@ $( "p" ).off( "click", bar );
 
 For complex applications and for plugins you share with others, it can be
 useful to namespace your events so you don't unintentionally disconnect events
-that you didn't or couldn't know about. For details, see Event Namespacing.
-
+that you didn't or couldn't know about. For details, see <a href="event-basics/#namespacing-events">Event Namespacing</a>.
 <!-- TODO: Link to namespacing -->
